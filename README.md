@@ -96,3 +96,4 @@ from the original repo at https://hackernoon.com/understanding-git-fcffd87c15a3 
 Developed along with my co-workers at [Cribspot](https://www.cribspot.com/). Inspired in part by style guides from [slashsBin](https://github.com/slashsBin/styleguide-git-commit-message#suggested-emojis) and [atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#git-commit-messages).
 
 This document was edited by Jack Robert Clonan from TE 350.
+This is the last line.
