@@ -1,2 +1,3 @@
 cool new file
-cloning things into your own respository is cool too
+cloning things into your own respository is cool too.
+I'm just getting used to committing and the command line.s
